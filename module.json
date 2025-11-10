@@ -1,7 +1,7 @@
 {
   "id": "echoes-of-the-vanished-pf2e",
   "title": "Echoes of the Vanished PF2e",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -10,12 +10,12 @@
     {
       "name": "Shawn Bowman",
       "email": "shawnpaulbowman75@gmail.com",
-      "url": "https://patreon.com/DarkSunPathfinder2e?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "url": "https://www.patreon.com/c/DarkSunPathfinder2e",
       "discord": "valsavus",
       "flags": {}
     }
   ],
-"manifest": "https://raw.githubusercontent.com/Valsavus/Echoes-of-the-vanished-PF2E/refs/heads/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Valsavus/Echoes-of-the-vanished-PF2E/refs/heads/main/module.json",
   "download": "https://github.com/Valsavus/echoes-of-the-vanished-pf2e/archive/refs/tags/1.1.0.zip",
   "url": "https://www.patreon.com/c/DarkSunPathfinder2e",
   "packs": [
@@ -24,6 +24,7 @@
       "label": "Echoes of the Vanished",
       "path": "packs/Echoes-of-the-vanished",
       "type": "Adventure",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -41,5 +42,5 @@
       }
     ]
   },
-  "description": ""
+  "description": "This is the third adventure set in the Lands of the Ravaged Sun"
 }
