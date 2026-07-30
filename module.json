@@ -1,10 +1,10 @@
 {
   "id": "echoes-of-the-vanished-pf2e",
   "title": "Echoes of the Vanished PF2e",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "description": "This is the third adventure set in the Lands of the Ravaged Sun",
   "authors": [
@@ -17,7 +17,7 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Valsavus/Echoes-of-the-vanished-PF2E/refs/heads/main/module.json",
-  "download": "https://github.com/Valsavus/echoes-of-the-vanished-pf2e/archive/refs/tags/1.0.1.zip",
+  "download": "https://github.com/Valsavus/echoes-of-the-vanished-pf2e/archive/refs/tags/1.0.2.zip",
   "url": "https://www.patreon.com/c/DarkSunPathfinder2e",
   "packs": [
     {
